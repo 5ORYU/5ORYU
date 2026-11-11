@@ -2,4 +2,4 @@
 
 <img width="250" alt="Untitled115_20261111123521" src="https://github.com/user-attachments/assets/09f9dc1b-1e1e-4916-b651-d772857c9fdc" />
 
-[ ]{#9c4530}[ ]{#a0462e}[ ]{#a3472c}[⁀]{#a7492a}[➷]{#aa4a29}[ ]{#ae4b27}[⠀]{#b14c25}[ ]{#b34f27}[⠀]{#b65229}[ ]{#b8552b}[s]{#ba582e}[p]{#bd5b30}[a]{#bf5e32}[m]{#c26236}[ ]{#c5663a}[f]{#c8693e}[o]{#cc6d42}[l]{#cf7146}[l]{#d2754a}[o]{#d47b51}[w]{#d68159}[ ]{#d88760}[a]{#d98d67}[c]{#db936f}[c]{#dd9976}[o]{#e1a280}[u]{#e4aa8a}[n]{#e8b394}[t]{#ebbc9e}[ ]{#efc4a8}[⠀]{#f2cdb2}[﹒]{#eec3a6}[ ]{#eab89a}[⠀]{#e5ae8e}[c]{#e1a382}[+]{#dd9976}[h]{#db936f}[ ]{#d98d67}[f]{#d78760}[r]{#d68159}[e]{#d47b51}[e]{#d2754a}[l]{#cf7146}[y]{#cc6d42}[!]{#c96a3e}[ ]{#c5663a}[(]{#c26236}[ㅅ]{#bf5e32}[´]{#bd5b30}[ ]{#ba582e}[˘]{#b8552c}[ ]{#b65229}[`]{#b34f27}[)]{#b14c25}[ ]{#ae4b27}[⠀]{#aa4a29}[⠀]{#a7482b}[ྀ]{#a3472c}[ི]{#a0462e}[ྀ]{#9c4530}
+$\text{\color{#9c4530}   ⁀➷ ⠀ ⠀ }$ $\text{\color{#b14c25}spam }$ $\text{\color{#c46233} follow}$ $\text{\color{#d2754a} acc }$ $\text{\color{#dd9976} ⠀﹒ ⠀}$ $\text{\color{#d2754a} c+h }$ $\text{\color{#c46233} freely }$  $\text{\color{#b14c25}!}$ $\text{\color{#9c4530} ⠀⠀ྀིྀ}$
